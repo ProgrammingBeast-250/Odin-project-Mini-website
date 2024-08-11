@@ -1,1 +1,1 @@
-# Odin-project-Mini-website
+This is my attempt at making the website in the odin project for the end of CSS and flexbox section.
