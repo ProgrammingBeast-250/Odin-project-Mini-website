@@ -1,0 +1,35 @@
+body {
+    font: 'Roboto';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#Headers {
+    color: white;
+    background-color: #1F2937;
+}
+
+#website-description {
+    font-size:  48px;
+    font-weight: extra-bold;
+}
+
+#header-button {
+    background-color: lightblue;
+    border-color: lightblue;
+    color: white;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+
+a, #description {
+    font-size: 18px;
+    color: #E5E7EB;
+}
